@@ -1,1 +1,1 @@
-# Puppy-house
+# lab-building-house-for-puppy-boilerplate
